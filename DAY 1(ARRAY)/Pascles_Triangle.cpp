@@ -32,5 +32,12 @@ vector<vector<int>> generate(int numRows) {
 }
 int main()
 {
-    
+    int n;cin>>n;
+    vector<vector<int>>ans=generate(n);
+    for(auto x:ans)
+    {
+        for(auto y:x)
+        cout<<y<<" ";
+        cout<<endl;
+    }
 }
