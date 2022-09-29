@@ -32,5 +32,11 @@ void sortColors(vector<int>& nums) {
 }
 int main()
 {
-    
+    vector<int> v={2,0,2,1,1,0};
+    sortColors(v);
+    for(auto x:v)
+    {
+        cout<<x<<" ";
+    }
+
 }
