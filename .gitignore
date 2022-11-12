@@ -10,3 +10,8 @@ Merge_Overlapping_Intervals.exe
 Next_Permutation.exe
 Delete_Node.exe
 Rotate_Matrix.exe
+Inorder_Recursive.exe
+Preorder_Recursive.exe
+Postorder_Recursive.exe
+Morris_Traversal_Inorder.exe
+Morris_Traversal_Preorder.exe
